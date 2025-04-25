@@ -1,4 +1,5 @@
-### Hi there 👋 ###Imagineering Data, Crafting Software 
+###Imagineering Data, Crafting Software 
+### Hi there 👋 
 My Name is Aakash, and I am an aspiring data Engineer/Scientist interested in all things of Python, Data Science and Software Engineering.
 
 - 🔭 I’m currently working on ...
