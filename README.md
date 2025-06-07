@@ -10,7 +10,9 @@ My Name is Aakash Regmi, and I am an aspiring Data Engineer/Scientist interested
 ## 🔧 My toolkit
 
 ### 🌐 Web Development
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 <!-- This is a comment and will not appear in the rendered Markdown 
 
