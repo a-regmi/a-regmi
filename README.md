@@ -35,6 +35,8 @@ MySQL, PostgreSQL, MongoDB
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=python&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-F77F00?style=for-the-badge&logo=apple&logoColor=white)
+
 
 
 ![](https://komarev.com/ghpvc/?username=aregmi&label=Profile%20views&color=0e75b6&style=social)
